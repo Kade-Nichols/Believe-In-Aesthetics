@@ -11,6 +11,10 @@ body {
     transition: color .5s;
 }
 
+.spacing {
+    margin-top: 25px;
+}
+
 a:hover {
     color: #e1e3e8;
     border-bottom: 1px solid #e1e3e8;
@@ -50,6 +54,12 @@ a:active {
     .bigger {
             width: 800px;
             margin: 0 auto;
+    }
+    .hide {
+        display: none;
+    }
+    .morespace {
+        margin-top: 60px;
     }
 }
 

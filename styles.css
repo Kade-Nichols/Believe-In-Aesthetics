@@ -3,6 +3,7 @@ body {
     color: #e1e3e8;
 }
 
+
 .linktag {
     margin-left:10px;
     margin-right: 10px;
@@ -17,7 +18,6 @@ body {
 
 a:hover {
     color: #e1e3e8;
-    border-bottom: 1px solid #e1e3e8;
     text-decoration: none;
 }
 

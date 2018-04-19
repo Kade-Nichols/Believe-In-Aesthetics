@@ -1,9 +1,6 @@
 body {
     background-color: #101111;
     color: #e1e3e8;
-}
-
-.container {
     font-size: 18px;
 }
 
@@ -104,6 +101,7 @@ a:active {
     color: white;
     margin: 0;
     padding: 0;
+    font-size: 15px;
 }
 
 .text {
